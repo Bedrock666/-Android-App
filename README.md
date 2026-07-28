@@ -16,3 +16,7 @@
 Please Note That:
 1.Without an APK file, you can only install it on your device using an editor and other methods.
 2.This is the first version, so please excuse any bugs.
+
+---
+### Developed By Gemini AI(Google AI Studio)
+### 由Gemini AI(Google AI Studio)开发
