@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cloud with Raindrops and Scanning Eye Vector -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,52c7.18,0 13,-5.82 13,-13 0,-6.33 -4.52,-11.6 -10.59,-12.75C69.45,20.08 60.29,15 49.5,15c-11.23,0 -20.73,5.63,-22.09,16.5C21.66,32.33 17,37.38 17,43.5c0,7.18 5.82,13 13,13h38z" />
+    <!-- Raindrops -->
+    <path
+        android:fillColor="#80D8FF"
+        android:pathData="M34,65c0,2.2 1.8,4 4,4s4,-1.8 4,-4c0,-2.5 -4,-7.5 -4,-7.5s-4,5 -4,7.5z" />
+    <path
+        android:fillColor="#80D8FF"
+        android:pathData="M50,68c0,2.2 1.8,4 4,4s4,-1.8 4,-4c0,-2.5 -4,-7.5 -4,-7.5s-4,5 -4,7.5z" />
+    <path
+        android:fillColor="#80D8FF"
+        android:pathData="M66,65c0,2.2 1.8,4 4,4s4,-1.8 4,-4c0,-2.5 -4,-7.5 -4,-7.5s-4,5 -4,7.5z" />
+    <!-- AI Lens Accent in Center -->
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M49.5,35.5m-6.5,0a6.5,6.5 0 1,1 13,0a6.5,6.5 0 1,1 -13,0" />
+</vector>

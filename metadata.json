@@ -1,0 +1,6 @@
+{
+  "name": "观天测雨",
+  "description": "拍一下天空的照片，AI智能识别云层特征并预测近期降雨概率与变化",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
