@@ -20,3 +20,5 @@ Please Note That:
 ---
 ### Developed By Gemini AI(Google AI Studio)
 ### 由Gemini AI(Google AI Studio)开发
+### AI Controller:陈晋安(Bedrock666)
+### AI控制者:陈晋安(Bedrock666)
